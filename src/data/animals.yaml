@@ -1,0 +1,15 @@
+path: ../yolo  # train images (relative to 'path') 128 images
+train: train/images  # train images (relative to 'path') 128 images
+val: test/images  # val images (relative to 'path') 128 images
+names:
+ 0: Lion
+ 1: Tortoise
+ 2: Crocodile
+ 3: Deer
+ 4: Elephant
+ 5: Rhinoceros
+ 6: Giraffe
+ 7: Horse
+ 8: Leopard
+ 9: Tiger
+ 10: Zebra
